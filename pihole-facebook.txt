@@ -829,3 +829,4 @@ lookaside.facebook.com
 mqtt-mini.facebook.com
 external-ams3-1.xx.fbcdn.net
 facebook.net.edgekey.net
+web.facebook.com
